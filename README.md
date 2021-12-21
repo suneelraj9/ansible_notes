@@ -26,7 +26,7 @@
  ###############
  
  - mail
-     to: suneel.raghavaraju@kyndryl.com
+     to: user mail id
      subject: test from tower
      body: This is test
      
